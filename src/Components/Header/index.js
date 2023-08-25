@@ -3,7 +3,6 @@ import logo from '../../img/logo.png'
 import Button from '../Button';
 
 const Nav = styled.nav`
-    background-color: var(--color-black-dark);
     border-bottom: 2px solid var(--color-primary);
     padding: 1.45rem 2.5rem;
     display: flex;
@@ -15,7 +14,7 @@ const Nav = styled.nav`
 
 const Logo = styled.img`
 width: 10.5rem;
-heigth: 2.5rem;
+height: 2.5rem;
 `
 
 function Header(){

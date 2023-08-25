@@ -18,7 +18,6 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
 
@@ -53,11 +52,11 @@ table {
 }
 
 * {
-    font-family: 'Montserrat'; 
+    font-family: 'Montserrat', sans-serif;
 }
 
 :root {
-    --title-big: 50px;
+    --title-big: 60px;
     --title-medium: 46px;
     --title-small: 35px;
     --body-big: 27px;

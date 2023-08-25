@@ -1,5 +1,6 @@
 import { styled } from 'styled-components';
 import logo from '../../img/logo.png';
+import { Link } from 'react-router-dom';
 
 const ContainerFooter = styled.footer`
     display: flex;
@@ -16,7 +17,9 @@ const Logo = styled.img`
 
 function Footer(){
     return <ContainerFooter>
-         <Logo src={logo} alt='Logo de Alura-flix'/>
+         <Link to="/">
+            <Logo src={logo} alt='Logo de Alura-flix'/>
+        </Link>
     </ContainerFooter>
 }
 

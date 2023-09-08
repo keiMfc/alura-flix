@@ -83,7 +83,7 @@ table {
     --color-black-lighter: #9E9E9E;
 
     --color-gray-dark: #C2C2C2;
-    --color-gray-medium: #E5E5E5;
+    --color-gray-medium: #53585D;
     --color-gray-light: #F5F5F5;
 
     --color-white: #FFF;

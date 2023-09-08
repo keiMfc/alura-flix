@@ -13,7 +13,6 @@ function App() {
       <Header />
       <Banner />
       <Footer />
-
     </div>
     </BrowserRouter>
   );

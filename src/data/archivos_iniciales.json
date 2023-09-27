@@ -1,0 +1,150 @@
+{
+    "videos": [
+      {
+        "id": 0,
+        "nombre": "¿Cuándo usar let, var y const?",
+        "urlVideo": "https://youtu.be/PztCEdIJITY",
+        "urlImagen": "dk",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+        "categoria": "Front End"
+      },
+      {
+        "id": 1,
+        "nombre": "¿Qué es JavaScript?",
+        "urlVideo": "https://youtu.be/GJfOSoaXk4s",
+        "urlImagen": "dk",
+        "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+        "categoria": "Front End"
+      },
+      {
+        "id": 2,
+        "nombre": "Equipo Front End",
+        "urlVideo": "https://youtu.be/rpvrLaBQwgg",
+        "urlImagen": "dk",
+        "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología? En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+        "categoria": "Front End"
+      },
+      {
+        "id": 3,
+        "nombre": "Aprendiendo a utilizar Figma",
+        "urlVideo": "https://youtu.be/UuAX5azcvDQ",
+        "urlImagen": "dk",
+        "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+        "categoria": "Front End"
+      },
+      {
+        "id": 4,
+        "nombre": "Spring Framework",
+        "urlVideo": "https://youtu.be/t-iqt1b2qqk",
+        "urlImagen": "dk",
+        "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+        "categoria": "Back End"
+      },
+      {
+        "id": 5,
+        "nombre": "¿Qué es SQL y NOSQL?",
+        "urlVideo": "https://youtu.be/cLLKVd5CNLc",
+        "urlImagen": "dk",
+        "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+        "categoria": "Back End"
+      },
+      {
+        "id": 6,
+        "nombre": "Simplificando tu código en Java. Conoce los enum",
+        "urlVideo": "https://youtu.be/EoPvlE85XAQ",
+        "urlImagen": "dk",
+        "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+        "categoria": "Back End"
+      },
+      {
+        "id": 7,
+        "nombre": "Desmistificando el Back-End",
+        "urlVideo": "https://youtu.be/LLt7FreeHfQ",
+        "urlImagen": "dk",
+        "descripcion": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend? ¿Cuáles son las skills necesarias para ser un buen desarrollador backend? ¿Qué hace un desarrollador backend en su dia a dia laboral? Esas y otras preguntas serán respondidas en este evento, en el que vamos a hablar con Maria Fernanda Ferreira y Diego Arguelles dos programadores Back End e Instructores de Alura.",
+        "categoria": "Back End"
+      },
+      {
+        "id": 8,
+        "nombre": "¿Qué son las Soft skills?",
+        "urlVideo": "https://youtu.be/vhwspfvI52k",
+        "urlImagen": "dk",
+        "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+        "categoria": "Innovación y Gestión"
+      },
+      {
+        "id": 9,
+        "nombre": "Las 7 Soft Skills más deseadas",
+        "urlVideo": "https://youtu.be/YhR7Zp8NUzE",
+        "urlImagen": "dk",
+        "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+        "categoria": "Innovación y Gestión"
+      },
+      {
+        "id": 10,
+        "nombre": "¿Qué son las metodologias ágiles?",
+        "urlVideo": "https://youtu.be/6N3OkLCfK-0",
+        "urlImagen": "dk",
+        "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+        "categoria": "Innovación y Gestión"
+      },
+      {
+        "id": 11,
+        "nombre": "Tips de para tener concentración en el Home Office ",
+        "urlVideo": "https://youtu.be/_zYbZ5S0VMw",
+        "urlImagen": "dk",
+        "descripcion": "Trabajar desde casa tiene muchas ventajas pero también puede tornarse una tarea desafiadora. Algunos de los factores que nos afectan en nuestra productividad son la falta de una rutina diaria, así como todo aquello que nos distraiga. Por eso, en este Alura+ vas a aprender 4 tips para desarrollar más tu enfoque y tu concentración trabajando desde casa: Organiza tus horarios, Evita distracciones, Atención plena y Técnica Pomodoro",
+        "categoria": "Innovación y Gestión"
+      }
+    ],
+    "categorias": [
+      {
+        "id": "0",
+        "nombre": "Front End",
+        "descripcion": "Todos los video del área de Front End, colocar en esta categoría para organizar los estudios que vengo haciendo actualmente",
+        "color": "#6BD1FF"
+      },
+      {
+        "id": "1",
+        "nombre": "Back End",
+        "descripcion": "Todos los video que estoy usando para estudiar Back End ",
+        "color": "#00C86F"
+      },
+      {
+        "id": "2",
+        "nombre": "Mobile",
+        "descripcion": "Contenido que vengo estudiando sobre React Native y Flutter",
+        "color": "#FFBA05"
+      },
+      {
+        "id": "3",
+        "nombre": "Infraestrutura",
+        "descripcion": "Todo lo que estoy aprendiendo sobre Docker y mucho mas",
+        "color": "#9CD33B"
+      },
+      {
+        "id": "4",
+        "nombre": "Data Science",
+        "descripcion": "Cosas de React y Python que vengo aprendiendo",
+        "color": "#A23BD3"
+      },
+      {
+        "id": "5",
+        "nombre": "Design & UX",
+        "descripcion": "Herramientas y técnicas que estudio sobre UX y Design",
+        "color": "#DC6EBE"
+      },
+      {
+        "id": "6",
+        "nombre": "Marketing Digital",
+        "descripcion": "La forma de vender y monetizar mis ideas",
+        "color": "#6B5BE2"
+      },
+      {
+        "id": "7",
+        "nombre": "Innovación y Gestión",
+        "descripcion": "Como mantener el equipo felíz y mucho mas",
+        "color": "#FF8C2A"
+      }
+    ]
+  }

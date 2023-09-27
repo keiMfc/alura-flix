@@ -1,20 +1,24 @@
+import { BrowserRouter as Router, Routes, Route, Switch} from 'react-router-dom';
 import './App.css';
 import GlobalStyle from './GlobalStyle'
-import { BrowserRouter } from 'react-router-dom';
-import Banner from './Components/Banner';
+import Home from './pages/Home';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 
 function App() {
   return (
-    <BrowserRouter>
     <div className="App">
-      <GlobalStyle />
-      <Header />
-      <Banner />
-      <Footer />
+      <Router>
+        <GlobalStyle />
+        <Header />
+          <Switch>
+            <Routes >
+              <Route path='/' element={ <Home/> } />
+            </Routes> 
+          </Switch>
+        <Footer />
+      </Router>
     </div>
-    </BrowserRouter>
   );
 }
 
